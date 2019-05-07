@@ -21,7 +21,8 @@ public class TestJava {
 	 */
 	public static void main(String[] args) {
 		String name = "Jagannath";
-
-	}
+		int a = 1;
+		int b = 2;
+  }
 
 }
